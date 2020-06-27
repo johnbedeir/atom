@@ -703,8 +703,8 @@
     position: absolute;
     top: 50%;
     left: 50%;
-    width: 115px;
-    height: 115px;
+    width: 70px;
+    height: 70px;
     border-radius: 50%;
     -ms-border-radius: 50%;
     -webkit-transform: translate(-50%, -50%);
